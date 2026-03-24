@@ -27,6 +27,23 @@ Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, e
 ###  ⚛️ Linguagens e Tecnologias
 
 
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    />
+    <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -35,17 +52,11 @@ Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -53,7 +64,7 @@ Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Kaiosalves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -61,8 +72,8 @@ Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiosalves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaKich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
