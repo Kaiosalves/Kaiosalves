@@ -69,11 +69,4 @@ My name is Kaio Simoes, I am 22 years old and I am from Minas Gerais. Currently,
     src="https://github-readme-stats.vercel.app/api?username=Kaiosalves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiosalves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
