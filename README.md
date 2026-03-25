@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Kaio Simoes
 
-**`Estudante de Ciencia da Computacao`**
+**`Computer Science student`**
 
-Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciencia da Computacao na UFOP. Sou fascinado por tecnologia e jogos e atualmente busco aprimorar meus conhecimentos em programacao e ciencia de dados.
+My name is Kaio Simoes, I am 22 years old and I am from Minas Gerais. Currently, I am studying Computer Science at UFOP. I am fascinated by technology and games and I am currently looking to improve my knowledge in programming and data science.
 
 <p align="left">
     </a> 
@@ -15,8 +15,8 @@ Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, e
     </a>
     <a href="https://github.com/Kaiosalves?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Kaiosalves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -24,7 +24,7 @@ Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, e
 
 ---
 
-###  ⚛️ Linguagens e Tecnologias
+###  ⚛️ Languages ​​and Technologies.
 
 
 
@@ -58,7 +58,7 @@ Me chamo Kaio Simoes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, e
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
