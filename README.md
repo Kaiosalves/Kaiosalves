@@ -2,7 +2,7 @@
 
 **`Computer Science student`**
 
-My name is Kaio Simoes, I am 22 years old and I am from Minas Gerais. Currently, I am studying Computer Science at UFOP. I am fascinated by technology and games and I am currently looking to improve my knowledge in programming and data science.
+My name is Kaio Simoes, I am 22 years old and I am from Minas Gerais. Currently, i am studying Computer Science at UFOP. I am fascinated by technology and games and i am currently looking to improve my knowledge in programming and data science.
 
 <p align="left">
     </a> 
